@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nahuel</h1>
 <h3 align="center">A junior platform engineer from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nah11500&label=Profile%20views&color=0e75b6&style=flat" alt="nah11500" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nahuel11500&label=Profile%20views&color=0e75b6&style=flat" alt="nahuel11500" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nah11500" alt="nah11500" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahuel11500" alt="nahuel11500" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahuel11500&show_icons=true&locale=en" alt="nahuel11500" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nah11500&" alt="nah11500" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahuel11500&" alt="nahuel11500" /></p>
