@@ -1,13 +1,66 @@
-<h1 align="center">Hi 👋, I'm Nahuel</h1>
-<h3 align="center">A junior platform engineer from France</h3>
+<p align="center">
+  <samp>
+    <a href="https://nahuelcanavy.com">website</a> ·
+    <a href="https://nahuelcanavy.com/blog/">blog</a> ·
+    <a href="https://www.linkedin.com/in/nahuel-canavy-159109234/">linkedin</a>
+  </samp>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nahuel11500&label=Profile%20views&color=0e75b6&style=flat" alt="nahuel11500" /> </p>
+```text
+> describe engineer nahuel. make no mistakes.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahuel11500" alt="nahuel11500" /></a> </p>
+● Bash(kubectl describe engineer nahuel)
+  └ Name:      Nahuel Canavy
+    Role:      Platform Engineer @ Wiremind
+    Location:  Paris, France
+    Focus:     Kubernetes on bare metal and GPUs, cost, AI agents that operate clusters
+    Stack:     Go · Rust · Python · Helm · Argo CD · Cilium · ClickHouse · Prometheus
+    Certs:     CKA · KCNA
+    Status:    Running
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+● Done. Read-only access, as requested. No production clusters were harmed.
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahuel11500&show_icons=true&locale=en&layout=compact" alt="nahuel11500" /></p>
+<table><tr><td valign="top" width="34%">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahuel11500&show_icons=true&locale=en" alt="nahuel11500" /></p>
+### Building
+
+[recouvrance](https://github.com/nahuel11500/recouvrance) - a native Kubernetes desktop client in Rust, with an MCP server for AI agents
+
+[ekokube](https://github.com/nahuel11500/ekokube) - real usage vs requests, waste and chargeback, on ClickHouse
+
+[python-template-project](https://github.com/nahuel11500/python-template-project) - uv, ruff, ty, CI and agent support, ready to go
+
+</td><td valign="top" width="33%">
+
+### On my blog
+<!-- blog starts -->
+[Our first big production incident caused by an agent](https://nahuelcanavy.com/blog/first_production_incident_agent/) - 2026-07-27
+
+[Deploying Internal Agents on Kubernetes: Lessons Learned](https://nahuelcanavy.com/blog/deploying_internal_agents_kubernetes/) - 2026-06-04
+
+[Linux Cgroups & Namespaces: Powering Containers](https://nahuelcanavy.com/blog/cgroup_namespaces/) - 2025-10-19
+
+[Linux Processes: A Complete Guide](https://nahuelcanavy.com/blog/linux_process/) - 2024-10-16
+
+<!-- blog ends -->
+More on [nahuelcanavy.com](https://nahuelcanavy.com/blog/)
+
+</td><td valign="top" width="33%">
+
+### Merged upstream
+<!-- upstream starts -->
+[kubernetes/autoscaler](https://github.com/kubernetes/autoscaler/pull/10471) - Add updater.extraEnv
+
+[langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s/pull/407) - Expose priorityClassName on web, worker and ClickHouse pods
+
+[aws-controllers-k8s/s3-controller](https://github.com/aws-controllers-k8s/s3-controller/pull/238) - Reconcile ObjectLockEnabledForBucket on adopted buckets
+
+[ClickHouse/clickhouse-operator](https://github.com/ClickHouse/clickhouse-operator/pull/260) - Compare Keeper replica versions numerically, not lexicographically
+
+<!-- upstream ends -->
+[All of them](https://github.com/search?q=author%3Anahuel11500+is%3Apr+is%3Amerged+-user%3Anahuel11500&type=pullrequests)
+
+</td></tr></table>
+
+<sub>The blog and upstream columns update themselves every day, from my RSS feed and the GitHub API.</sub>
