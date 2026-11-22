@@ -35,13 +35,13 @@
 
 ### On my blog
 <!-- blog starts -->
+[Same syscalls, three times the price: what "older hardware" really costs](https://nahuelcanavy.com/blog/zen4_kernel_entry_cost/) - 2026-11-28
+
+[It was not the hardware: how 37 audit rules ate 80% of my disk throughput](https://nahuelcanavy.com/blog/audit_rules_disk_throughput/) - 2026-11-21
+
 [Our first big production incident caused by an agent](https://nahuelcanavy.com/blog/first_production_incident_agent/) - 2026-07-27
 
 [Deploying Internal Agents on Kubernetes: Lessons Learned](https://nahuelcanavy.com/blog/deploying_internal_agents_kubernetes/) - 2026-06-04
-
-[Linux Cgroups & Namespaces: Powering Containers](https://nahuelcanavy.com/blog/cgroup_namespaces/) - 2025-10-19
-
-[Linux Processes: A Complete Guide](https://nahuelcanavy.com/blog/linux_process/) - 2024-10-16
 
 <!-- blog ends -->
 More on [nahuelcanavy.com](https://nahuelcanavy.com/blog/)
