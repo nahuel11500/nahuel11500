@@ -50,13 +50,13 @@ More on [nahuelcanavy.com](https://nahuelcanavy.com/blog/)
 
 ### Merged upstream
 <!-- upstream starts -->
+[kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics/pull/3169) - Skip unresolved Gauge paths without an error
+
 [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler/pull/10471) - Add updater.extraEnv
 
 [langfuse/langfuse-k8s](https://github.com/langfuse/langfuse-k8s/pull/407) - Expose priorityClassName on web, worker and ClickHouse pods
 
 [aws-controllers-k8s/s3-controller](https://github.com/aws-controllers-k8s/s3-controller/pull/238) - Reconcile ObjectLockEnabledForBucket on adopted buckets
-
-[ClickHouse/clickhouse-operator](https://github.com/ClickHouse/clickhouse-operator/pull/260) - Compare Keeper replica versions numerically, not lexicographically
 
 <!-- upstream ends -->
 [All of them](https://github.com/search?q=author%3Anahuel11500+is%3Apr+is%3Amerged+-user%3Anahuel11500&type=pullrequests)
